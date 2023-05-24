@@ -1,0 +1,18 @@
+2023-05-23 19:37:45,581 | DEBUG:TESTEANDO LOS SERVIDORES ... | MainThread | serverStat | 58|
+2023-05-23 19:37:45,582 | DEBUG:Conectado para testear | MainThread | serverStat | 62|
+2023-05-23 19:37:45,588 | DEBUG:Iniciando programa | MainThread | <module> | 80|
+2023-05-23 19:37:45,588 | DEBUG:Leyendo archivo | MainThread | <module> | 81|
+2023-05-23 19:37:48,427 | DEBUG:Dividiendo texto en 2 | MainThread | <module> | 93|
+2023-05-23 19:37:48,430 | DEBUG:Iniciando executor de hilos | MainThread | <module> | 101|
+2023-05-23 19:37:48,435 | DEBUG:PRIMER CLIENTE | MainThread | <module> | 109|
+2023-05-23 19:37:48,436 | DEBUG:Solicitando servidor al gsc desde el cliente ... | ThreadPoolExecutor-0_0 | solicitud | 68|
+2023-05-23 19:37:48,436 | DEBUG:Conectado al gsc para solicitar servidor | ThreadPoolExecutor-0_0 | solicitud | 70|
+2023-05-23 19:37:48,445 | DEBUG:SEGUNDO CLIENTE | MainThread | <module> | 117|
+2023-05-23 19:37:48,446 | DEBUG:Solicitando servidor al gsc desde el cliente ... | ThreadPoolExecutor-0_1 | solicitud | 68|
+2023-05-23 19:37:48,446 | DEBUG:Obteniendo resultado de hilo virtual | MainThread | <module> | 126|
+2023-05-23 19:37:48,446 | DEBUG:Conectado al gsc para solicitar servidor | ThreadPoolExecutor-0_1 | solicitud | 70|
+2023-05-23 19:37:49,879 | DEBUG:Obteniendo resultado de hilo local | MainThread | <module> | 129|
+2023-05-23 19:37:51,255 | DEBUG:Fin de executor de hilos | MainThread | <module> | 135|
+2023-05-23 19:37:51,305 | DEBUG:Archivo Cifrados.txt guardado con exito | MainThread | <module> | 141|
+2023-05-23 19:37:53,605 | DEBUG:Archivo descifrado.txt guardado con exito | MainThread | <module> | 158|
+2023-05-23 19:37:53,606 | DEBUG:Fin del programa | MainThread | <module> | 165|

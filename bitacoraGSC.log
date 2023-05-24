@@ -1,0 +1,80 @@
+2023-05-18 18:15:05,333 | DEBUG:Sincronizando tiempo con servidor 192.168.1.183:3312... | MainThread | <module> | 53|
+2023-05-18 18:15:05,333 | DEBUG:Conectando con 192.168.1.183:3312... | MainThread | <module> | 55|
+2023-05-18 18:15:05,333 | DEBUG:Conectando con 192.168.1.183:3312... | MainThread | sync_time | 31|
+2023-05-18 18:15:05,340 | DEBUG:Tiempo del servidor: 1684455305339.7756 | MainThread | sync_time | 35|
+2023-05-18 18:15:05,340 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,341 | DEBUG:Latencia: 0.4825439453125 | MainThread | sync_time | 39|
+2023-05-18 18:15:05,341 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,341 | DEBUG:Tiempo actual: 1684455305341.255 | MainThread | sync_time | 42|
+2023-05-18 18:15:05,341 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3312: 1684455305341.255 | MainThread | <module> | 57|
+2023-05-18 18:15:05,341 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3312: 2023-05-18 18:15:05 | MainThread | <module> | 59|
+2023-05-18 18:15:05,341 | DEBUG:Sincronizando tiempo con servidor 192.168.1.183:3313... | MainThread | <module> | 53|
+2023-05-18 18:15:05,341 | DEBUG:Conectando con 192.168.1.183:3313... | MainThread | <module> | 55|
+2023-05-18 18:15:05,341 | DEBUG:Conectando con 192.168.1.183:3313... | MainThread | sync_time | 31|
+2023-05-18 18:15:05,343 | DEBUG:Tiempo del servidor: 1684455305343.7344 | MainThread | sync_time | 35|
+2023-05-18 18:15:05,343 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,343 | DEBUG:Latencia: 0.0 | MainThread | sync_time | 39|
+2023-05-18 18:15:05,343 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,343 | DEBUG:Tiempo actual: 1684455305343.7344 | MainThread | sync_time | 42|
+2023-05-18 18:15:05,343 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3313: 1684455305343.7344 | MainThread | <module> | 57|
+2023-05-18 18:15:05,343 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3313: 2023-05-18 18:15:05 | MainThread | <module> | 59|
+2023-05-18 18:15:05,344 | DEBUG:Sincronizando tiempo con servidor 192.168.1.183:3314... | MainThread | <module> | 53|
+2023-05-18 18:15:05,344 | DEBUG:Conectando con 192.168.1.183:3314... | MainThread | <module> | 55|
+2023-05-18 18:15:05,344 | DEBUG:Conectando con 192.168.1.183:3314... | MainThread | sync_time | 31|
+2023-05-18 18:15:05,346 | DEBUG:Tiempo del servidor: 1684455305345.7612 | MainThread | sync_time | 35|
+2023-05-18 18:15:05,346 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,346 | DEBUG:Latencia: 0.4891357421875 | MainThread | sync_time | 39|
+2023-05-18 18:15:05,346 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,346 | DEBUG:Tiempo actual: 1684455305346.2505 | MainThread | sync_time | 42|
+2023-05-18 18:15:05,346 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3314: 1684455305346.2505 | MainThread | <module> | 57|
+2023-05-18 18:15:05,346 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3314: 2023-05-18 18:15:05 | MainThread | <module> | 59|
+2023-05-18 18:15:05,346 | DEBUG:Sincronizando tiempo con servidor 192.168.1.183:3315... | MainThread | <module> | 53|
+2023-05-18 18:15:05,346 | DEBUG:Conectando con 192.168.1.183:3315... | MainThread | <module> | 55|
+2023-05-18 18:15:05,346 | DEBUG:Conectando con 192.168.1.183:3315... | MainThread | sync_time | 31|
+2023-05-18 18:15:05,348 | DEBUG:Tiempo del servidor: 1684455305348.7554 | MainThread | sync_time | 35|
+2023-05-18 18:15:05,348 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,349 | DEBUG:Latencia: 0.4805908203125 | MainThread | sync_time | 39|
+2023-05-18 18:15:05,349 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,349 | DEBUG:Tiempo actual: 1684455305349.2358 | MainThread | sync_time | 42|
+2023-05-18 18:15:05,349 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3315: 1684455305349.2358 | MainThread | <module> | 57|
+2023-05-18 18:15:05,349 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3315: 2023-05-18 18:15:05 | MainThread | <module> | 59|
+2023-05-18 18:15:05,349 | DEBUG:Sincronizando tiempo con servidor 192.168.1.183:3316... | MainThread | <module> | 53|
+2023-05-18 18:15:05,349 | DEBUG:Conectando con 192.168.1.183:3316... | MainThread | <module> | 55|
+2023-05-18 18:15:05,349 | DEBUG:Conectando con 192.168.1.183:3316... | MainThread | sync_time | 31|
+2023-05-18 18:15:05,351 | DEBUG:Tiempo del servidor: 1684455305350.7131 | MainThread | sync_time | 35|
+2023-05-18 18:15:05,351 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,351 | DEBUG:Latencia: 0.4991455078125 | MainThread | sync_time | 39|
+2023-05-18 18:15:05,351 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,351 | DEBUG:Tiempo actual: 1684455305351.2124 | MainThread | sync_time | 42|
+2023-05-18 18:15:05,351 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3316: 1684455305351.2124 | MainThread | <module> | 57|
+2023-05-18 18:15:05,351 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3316: 2023-05-18 18:15:05 | MainThread | <module> | 59|
+2023-05-18 18:15:05,351 | DEBUG:Sincronizando tiempo con servidor 192.168.1.183:3317... | MainThread | <module> | 53|
+2023-05-18 18:15:05,351 | DEBUG:Conectando con 192.168.1.183:3317... | MainThread | <module> | 55|
+2023-05-18 18:15:05,351 | DEBUG:Conectando con 192.168.1.183:3317... | MainThread | sync_time | 31|
+2023-05-18 18:15:05,353 | DEBUG:Tiempo del servidor: 1684455305352.7085 | MainThread | sync_time | 35|
+2023-05-18 18:15:05,353 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,353 | DEBUG:Latencia: 0.4984130859375 | MainThread | sync_time | 39|
+2023-05-18 18:15:05,353 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,353 | DEBUG:Tiempo actual: 1684455305353.207 | MainThread | sync_time | 42|
+2023-05-18 18:15:05,354 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3317: 1684455305353.207 | MainThread | <module> | 57|
+2023-05-18 18:15:05,354 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3317: 2023-05-18 18:15:05 | MainThread | <module> | 59|
+2023-05-18 18:15:05,354 | DEBUG:Sincronizando tiempo con servidor 192.168.1.183:3318... | MainThread | <module> | 53|
+2023-05-18 18:15:05,354 | DEBUG:Conectando con 192.168.1.183:3318... | MainThread | <module> | 55|
+2023-05-18 18:15:05,354 | DEBUG:Conectando con 192.168.1.183:3318... | MainThread | sync_time | 31|
+2023-05-18 18:15:05,356 | DEBUG:Tiempo del servidor: 1684455305355.7002 | MainThread | sync_time | 35|
+2023-05-18 18:15:05,356 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,356 | DEBUG:Latencia: 0.51806640625 | MainThread | sync_time | 39|
+2023-05-18 18:15:05,356 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,356 | DEBUG:Tiempo actual: 1684455305356.2183 | MainThread | sync_time | 42|
+2023-05-18 18:15:05,356 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3318: 1684455305356.2183 | MainThread | <module> | 57|
+2023-05-18 18:15:05,356 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3318: 2023-05-18 18:15:05 | MainThread | <module> | 59|
+2023-05-18 18:15:05,356 | DEBUG:Sincronizando tiempo con servidor 192.168.1.183:3319... | MainThread | <module> | 53|
+2023-05-18 18:15:05,356 | DEBUG:Conectando con 192.168.1.183:3319... | MainThread | <module> | 55|
+2023-05-18 18:15:05,356 | DEBUG:Conectando con 192.168.1.183:3319... | MainThread | sync_time | 31|
+2023-05-18 18:15:05,358 | DEBUG:Tiempo del servidor: 1684455305357.7278 | MainThread | sync_time | 35|
+2023-05-18 18:15:05,358 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,358 | DEBUG:Latencia: 0.4964599609375 | MainThread | sync_time | 39|
+2023-05-18 18:15:05,358 | DEBUG:Obteniendo tiempo actual... | MainThread | get_time | 25|
+2023-05-18 18:15:05,358 | DEBUG:Tiempo actual: 1684455305358.224 | MainThread | sync_time | 42|
+2023-05-18 18:15:05,358 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3319: 1684455305358.224 | MainThread | <module> | 57|
+2023-05-18 18:15:05,358 | DEBUG:Tiempo sincronizado del servidor 192.168.1.183:3319: 2023-05-18 18:15:05 | MainThread | <module> | 59|
